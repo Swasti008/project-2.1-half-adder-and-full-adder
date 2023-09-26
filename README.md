@@ -1,1 +1,3 @@
-# project-2.1-half-adder-and-full-adder
+# project 2.1 halfAdder and fulladder
+HalfAdder
+FullAdder
